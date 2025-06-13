@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Hotel Management System">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rs2xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-8.0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/razorpay-java-1.4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/json-20210307.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-j-9.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
